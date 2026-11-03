@@ -1,0 +1,43 @@
+person,category,item_number,item_label,brand,product_name,rating,rating_label
+Layla,Perfume,1,Perfume 1,,,2,Dislike
+Layla,Candle,1,Candle 1,,,3,Like
+Layla,Deodorant,1,Deodorant 1,,,3,Like
+Jerry,Perfume,1,Perfume 1,,,2,Dislike
+Jerry,Candle,1,Candle 1,,,3,Like
+Jerry,Deodorant,1,Deodorant 1,,,3,Like
+Bruno,Perfume,1,Perfume 1,,,2,Dislike
+Bruno,Candle,1,Candle 1,,,2,Dislike
+Bruno,Deodorant,1,Deodorant 1,,,3,Like
+Owen,Perfume,1,Perfume 1,,,2,Dislike
+Owen,Candle,1,Candle 1,,,4,Love
+Owen,Deodorant,1,Deodorant 1,,,3,Like
+Owen,Body wash,1,Body wash 1,,,1,Hate
+Owen,Lotion,1,Lotion 1,,,3,Like
+Owen,Lotion,2,Lotion 2,,,2,Dislike
+Owen,Shampoo,1,Shampoo 1,,,3,Like
+Owen,Perfume,2,Perfume 2,,,2,Dislike
+Owen,Perfume,3,Perfume 3,,,3,Like
+Owen,Candle,2,Candle 2,,,1,Hate
+Owen,Candle,3,Candle 3,,,1,Hate
+Jing,Candle,1,Candle 1,,,3,Like
+Jing,Perfume,1,Perfume 1,,,2,Dislike
+Jing,Deodorant,1,Deodorant 1,,,2,Dislike
+Jing,Body wash,1,Body wash 1,,,2,Dislike
+Jing,Lotion,1,Lotion 1,,,3,Like
+Jing,Lotion,2,Lotion 2,,,4,Love
+Jing,Shampoo,1,Shampoo 1,,,3,Like
+Jing,Perfume,2,Perfume 2,,,1,Hate
+Jing,Perfume,3,Perfume 3,,,2,Dislike
+Jing,Candle,2,Candle 2,,,2,Dislike
+Jing,Candle,3,Candle 3,,,2,Dislike
+Paul,Candle,1,Candle 1,,,2,Dislike
+Paul,Perfume,1,Perfume 1,,,2,Dislike
+Paul,Deodorant,1,Deodorant 1,,,3,Like
+Paul,Shampoo,1,Shampoo 1,Native,Coconut Vanilla,2,Dislike
+Paul,Lotion,1,Lotion 1,Athena,Amber Hours,3,Like
+Paul,Lotion,2,Lotion 2,Athena,Golden Vanilla,4,Love
+Paul,Shampoo,2,Shampoo 2,Native,Rain + Cashmere,3,Like
+Paul,Perfume,2,Perfume 2,,,1,Hate
+Paul,Perfume,3,Perfume 3,,,3,Like
+Paul,Candle,2,Candle 2,,,2,Dislike
+Paul,Candle,3,Candle 3,,,2,Dislike
